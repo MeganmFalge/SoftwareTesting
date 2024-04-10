@@ -100,6 +100,12 @@ public class ProjectPageTest {
 
     @AfterTest
     public void tearDown() {
+        try {
+            Thread.sleep(2000); // 2 seconds delay
+        } catch (InterruptedException e) {
+            e.printStackTrace();
+        }
+
         if (driver != null) {
             driver.quit();
         }
