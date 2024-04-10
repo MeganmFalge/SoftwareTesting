@@ -43,11 +43,6 @@ public class ManagementPageTest {
 
     }
 
-    public void Login(){
-
-
-    }
-
     private void verifyTableHeaders(WebElement table, String[] expectedHeaders) {
         java.util.List<WebElement> headerElements = table.findElements(By.xpath(".//th"));
         Assert.assertEquals(headerElements.size(), expectedHeaders.length, "Number of table headers should match");
