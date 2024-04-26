@@ -70,4 +70,3 @@ insights into the complexities of software engineering, project management, and 
 [1]	Delivering solutions, changing the world®. KBR. (n.d.). https://www.kbr.com/en 
 [2]	Manuscript templates for conference proceedings. IEEE. (n.d.). https://www.ieee.org/conferences/publishing/templates.html 
 [3]	Reflecting about your experience. Career and Professional Development | Virginia Tech. (2020, June 11). https://career.vt.edu/experience/Internships/reflect.html 
-![image](https://github.com/MeganmFalge/SoftwareTesting/assets/95250783/b390b72b-539e-4de8-9d2c-f7cb6e0c8172)
