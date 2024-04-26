@@ -4,17 +4,11 @@ Correlates to a KBR Habilis web application that is private.
 # Reflection of Senior Engr Project
 Abstract—The Habilis project at Florida Gulf Coast University represents a strategic initiative focused on developing a sophisticated web application designed to optimize data labeling using machine learning algorithms. The project integrates advanced technology with rigorous data validation processes, emphasizing the generation of essential metrics critical for model behavior monitoring and optimization. Adopting agile methodologies within a Scrum framework, our team prioritized flexibility, iterative development, and continuous collaboration to navigate project complexities and achieve milestones effectively. This reflection paper provides a comprehensive overview of our project’s progress, challenges, achievements, and the impact of this experiential journey on our software engineering knowledge and skillset. 
 Keywords—software development, machine learning, agile methodologies, scrum, data labeling, project management (key words)
-I.	INTRODUCTION
+## 	INTRODUCTION
 The Habilis project at Florida Gulf Coast University embodies a strategic initiative aimed at advancing the development of a sophisticated web application tailored for efficient data labeling through machine learning algorithms. This endeavor represents a pivotal fusion of cutting-edge technology with rigorous data processing methodologies, addressing the critical need for streamlined data validation and model optimization within the realms of computational science.
 The project's workflow is meticulously structured, beginning with the application of machine learning algorithms for data labeling, followed by a crucial phase of expert verification to ensure the utmost accuracy and reliability of the processed data. Emphasizing the significance of comprehensive metrics, the project endeavors to furnish essential data outputs crucial for ongoing model monitoring and performance assessment.
 Incorporating Agile methodologies with a Scrum framework, our team embraced a collaborative, iterative development process characterized by adaptability and responsiveness. While rooted in Scrum principles, adaptations to our grooming procedures were made to suit the unique demands and complexities inherent to our project scope. This reflective report consolidates key insights gleaned from each project milestone, offering a holistic portrayal of our progress, the obstacles overcome, and the noteworthy achievements attained throughout our journey.
-II.	ACTIVITIES AND COURSE OBJECTIVES
-
-Sr. No.	Activity/Task	Obj.	Effort	Time Spent
-1	 Stand-up Meetings	2, 5 	Team	4 hours/week
-2	Training on Ethics	5, 6	Individual	45 minutes
-3	10 Test Cases	1, 6	Individual	
-
+## 	ACTIVITIES AND COURSE OBJECTIVES
 A.	Stand-up Meetings
 The stand-up meetings conducted weekly during the process of developing this project played a crucial role in fulfilling task objectives related to teamwork and system performance assessment. These meetings provided an opportunity to collaborate effectively, communicate thoroughly, collect progress updates, and synthesis our efforts towards project milestones. By participating in these meetings, team members learned how to work with on another, address challenges, take criticism of code, and analyze the performance of our web application in real-time. This regular engagement enabled us to adapt our strategies, allocate resources, and maintain a cohesive approach to software development.  
 B.	Training on Ethics
@@ -43,7 +37,7 @@ The Database Management and Data Integrity test case evaluates the functionality
 The Code Reusability and Maintainability test case assesses the maintainability and efficiency of code organization within the Habilis web application. This test involves reviewing the codebase for modular organization and reusable components, testing modifications and extensions to ensure code clarity and readability. By conducting this test, we can validate adherence to coding standards and documentation practices, supporting future engineering efforts and system scalability.
 
 
-III.	IMPACT ON SOFTWARE ENGINEERING
+## 	IMPACT ON SOFTWARE ENGINEERING
 The Habilis project sponsored by KBR and ran by Florida Gulf Coast University has profoundly influenced my software engineering journey. This project has shaped my knowledge, perspective, skillset, and future direction in significant ways. Throughout this experiential learning opportunity, several key impacts have emerged:
 A.	Knowledge Enhancement
 Engaging in development of a sophisticated web application incorporating machine learning algorithms has deepened my understanding of the cutting-edge technologies and their practical applications. By working hands-on with data labeling and validation processes, I’ve gained insights into the complexities of computational science and data-driven software development. 
@@ -72,7 +66,7 @@ adopted wad highly effective and should be retained for future projects. The Agi
 E.	Lessons Learned
 Throughout the senior project, we gained valuable
 insights into the complexities of software engineering, project management, and teamwork. Key lessons learned would include importance of clear and consistent communication, proactive stakeholder engagement, and value of iterative development cycles. We also recognized the significance of robust requirement analysis and the need for continuous adaptation in response to project dynamics. Overall, the experience provided a holistic understanding of software development processes and reinforced the importance of collaboration and adaptability in achieving project success. 
-REFERENCES
+## REFERENCES
 [1]	Delivering solutions, changing the world®. KBR. (n.d.). https://www.kbr.com/en 
 [2]	Manuscript templates for conference proceedings. IEEE. (n.d.). https://www.ieee.org/conferences/publishing/templates.html 
 [3]	Reflecting about your experience. Career and Professional Development | Virginia Tech. (2020, June 11). https://career.vt.edu/experience/Internships/reflect.html 
