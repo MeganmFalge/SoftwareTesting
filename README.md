@@ -1,7 +1,7 @@
 # SoftwareTesting
 Correlates to a KBR Habilis web application that is private. 
 
-#Reflection of Senior Engr Project
+# Reflection of Senior Engr Project
 Abstract—The Habilis project at Florida Gulf Coast University represents a strategic initiative focused on developing a sophisticated web application designed to optimize data labeling using machine learning algorithms. The project integrates advanced technology with rigorous data validation processes, emphasizing the generation of essential metrics critical for model behavior monitoring and optimization. Adopting agile methodologies within a Scrum framework, our team prioritized flexibility, iterative development, and continuous collaboration to navigate project complexities and achieve milestones effectively. This reflection paper provides a comprehensive overview of our project’s progress, challenges, achievements, and the impact of this experiential journey on our software engineering knowledge and skillset. 
 Keywords—software development, machine learning, agile methodologies, scrum, data labeling, project management (key words)
 I.	INTRODUCTION
